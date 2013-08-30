@@ -1,0 +1,11 @@
+{
+	"name": "daigo-rewards",
+	"description": "The rewards package for Daigo",
+	"homepage": "https://github.com/meteor-daigo/daigo-rewards",
+	"author": "The Daigo Team",
+	"version": "0.1.0",
+	"git": "https://github.com/meteor-daigo/daigo-rewards.git",
+	"packages": {
+		"smart-collections": {}
+	}
+}
